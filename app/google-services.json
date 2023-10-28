@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "194108066725",
+    "project_id": "happyhappening-fcb36",
+    "storage_bucket": "happyhappening-fcb36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194108066725:android:64ab3566b6fed07313364c",
+        "android_client_info": {
+          "package_name": "com.happy.happenings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194108066725-fihdic4bgb45hqlse6sscl0ceu1vhhrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happy.happenings",
+            "certificate_hash": "ff51aa0f1c329495865cafcd06f5a68b986adf61"
+          }
+        },
+        {
+          "client_id": "194108066725-bhnl3e9cvltrpq2fglirshg7h5q2bddu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqW1eZzQSq3tjjltBDWC05wyDkJJShJ9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194108066725-bhnl3e9cvltrpq2fglirshg7h5q2bddu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
